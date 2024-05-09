@@ -23,8 +23,8 @@ Step5:
 print the characters and its huffmancode
 ## Program:
 ```
-Developed By:Varsha G
-Register Number:212222230166
+Developed By:RAGUL VK
+Register Number:212221240043
 ```
 
 # Get the input String
